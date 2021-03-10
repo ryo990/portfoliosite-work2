@@ -11,7 +11,6 @@
 }
 
 .image img{
-  cursor:pointer;
   height:700px;
   width:100%;
 }
@@ -30,6 +29,7 @@
 }
 
 .menubtn img{
+  cursor:pointer;
   opacity:0.8;
   width:100px;
   height:100px;
