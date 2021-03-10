@@ -60,13 +60,13 @@ nav ul li a{
   text-align:center;
   width:100%;
   left:0;
-  top:calc(50% - 25px);
+  top:calc(20% - 25px);
 }
 
 .theme h1{
   color:white;
   font-size:40px;
-  display:inline-block;
+  display:inline;
   border-bottom:solid 2px white;
 }
 
