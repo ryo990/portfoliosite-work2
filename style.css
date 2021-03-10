@@ -11,6 +11,7 @@
 }
 
 .image img{
+  cursor:pointer;
   height:700px;
   width:100%;
 }
